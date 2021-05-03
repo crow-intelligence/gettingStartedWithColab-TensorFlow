@@ -1,5 +1,5 @@
-# gettingStartedWithColab
-A Live Project made for Manning.
+# Getting Started with Google Colab Using TensorFlow
+A GitHub repo for the [Manning liveProject.](https://www.manning.com/liveproject/getting-started-with-google-colab-using-tensorflow)
 
 ## Notes
 + You don't have to install the requirements,
